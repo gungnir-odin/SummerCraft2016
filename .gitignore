@@ -1,0 +1,6 @@
+# Ignore the bytecode.
+__pycache__/
+*.py[cod]
+
+# Ignore other unneeded files.
+.DS_Store
